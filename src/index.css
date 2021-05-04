@@ -13,3 +13,31 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+ul{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+
+
+/* Color Theme Swatches in Hex */
+.warm-greys-and-yellow-1-hex { color: #252623; }
+.warm-greys-and-yellow-2-hex { color: #636159; }
+.warm-greys-and-yellow-3-hex { color: #DECC00; }
+.warm-greys-and-yellow-4-hex { color: #BFB6A8; }
+.warm-greys-and-yellow-5-hex { color: #EDEDE6; }
+
+/* Color Theme Swatches in RGBA */
+.warm-greys-and-yellow-1-rgba { color: rgba(37, 38, 35, 1); }
+.warm-greys-and-yellow-2-rgba { color: rgba(99, 97, 88, 1); }
+.warm-greys-and-yellow-3-rgba { color: rgba(221, 204, 0, 1); }
+.warm-greys-and-yellow-4-rgba { color: rgba(191, 181, 168, 1); }
+.warm-greys-and-yellow-5-rgba { color: rgba(237, 237, 230, 1); }
+
+/* Color Theme Swatches in HSLA */
+.warm-greys-and-yellow-1-hsla { color: hsla(75, 4, 14, 1); }
+.warm-greys-and-yellow-2-hsla { color: hsla(49, 5, 36, 1); }
+.warm-greys-and-yellow-3-hsla { color: hsla(55, 100, 43, 1); }
+.warm-greys-and-yellow-4-hsla { color: hsla(35, 15, 70, 1); }
+.warm-greys-and-yellow-5-hsla { color: hsla(60, 16, 91, 1); }
