@@ -15,6 +15,7 @@ O objetivo do projeto é ir colocando em prática o que estou estudando no momen
 ### :hammer_and_wrench: Tecnologias usadas
 
 - React.js: Hooks, Context API
+- TypeScript
 - Styled-Components
 
 ### :computer: Execução
